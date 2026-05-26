@@ -1,4 +1,4 @@
-
+package String;
 /*Given a string s, the task is to check if it is palindrome or not.
 
         Example:

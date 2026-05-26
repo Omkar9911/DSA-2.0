@@ -1,4 +1,4 @@
-/*
+package Array;/*
 
 Find the Duplicate Number
         Solved

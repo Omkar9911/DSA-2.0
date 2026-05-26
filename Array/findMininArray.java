@@ -1,4 +1,4 @@
-/*
+package Array;/*
 
 Find Minimum in Rotated Sorted Array
 Solved
