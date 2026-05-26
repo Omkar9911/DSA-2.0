@@ -20,6 +20,9 @@ Explanation: Strings are not rotations of each other.*/
 
 package String;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class rotationStr {
 
     boolean isRoration (String s1, String s2){
