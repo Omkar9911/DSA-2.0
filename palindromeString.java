@@ -1,3 +1,18 @@
+
+/*Given a string s, the task is to check if it is palindrome or not.
+
+        Example:
+
+Input: s = "abba"
+Output: true
+Explanation: s is a palindrome
+
+Input: s = "abc"
+Output: false
+Explanation: s is not a palindrome*/
+
+
+
 public class palindromeString {
 
     // for String
