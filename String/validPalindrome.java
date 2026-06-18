@@ -20,6 +20,7 @@ public class validPalindrome {
 
             // Compare after converting to lowercase
             if (Character.toLowerCase(s.charAt(left)) !=
+
                     Character.toLowerCase(s.charAt(right))) {
                 return false;
             }
