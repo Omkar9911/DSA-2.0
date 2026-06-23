@@ -41,6 +41,7 @@ public class uniqueOcc {
 
         int occ = 1;
 
+
         for (int i = 1; i < arr.length; i++) {
 
             if (arr[i] == arr[i - 1]) {
