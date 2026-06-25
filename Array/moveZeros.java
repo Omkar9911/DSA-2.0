@@ -19,6 +19,7 @@ Output: [1,3,12,0,0]
 Example 2:
 
 Input: nums = [0]
+
 Output: [0]*/
 
 
