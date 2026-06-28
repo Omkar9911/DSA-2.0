@@ -27,6 +27,7 @@ Output: [0]*/
 
 package Array;
 
+
 public class moveZeros {
     public void moveZeroes(int[] nums) {
 
