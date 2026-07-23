@@ -9,7 +9,7 @@ public class highestSalary {
     public static void main(String[] args) {
 
         List<Integer> list = Arrays.asList(10, 25, 8, 45, 32, 45, 18);
-        int n = 1;
+        int n = 2;
 
         Integer salary = list.stream()
                 .distinct()
